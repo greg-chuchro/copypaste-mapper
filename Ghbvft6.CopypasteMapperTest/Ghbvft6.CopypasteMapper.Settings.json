@@ -1,0 +1,10 @@
+{
+    "delay": 100,
+    "mappings": [
+        {
+            "matchPattern": "C:\\\\.*",
+            "replacementPattern": "\\\\",
+            "replacement": "/"
+        }
+    ]
+}

@@ -23,4 +23,10 @@
     <ProjectReference Include="..\Ghbvft6.CopypasteMapper\Ghbvft6.CopypasteMapper.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Ghbvft6.CopypasteMapper.Settings.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
