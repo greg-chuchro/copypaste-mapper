@@ -8,6 +8,9 @@
     <RootNamespace>Ghbvft6.CopypasteMapper</RootNamespace>
     <PackageId>Ghbvft6.CopypasteMapper</PackageId>
     <Version>0.0.0</Version>
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>CopypasteMapper</ToolCommandName>
+    <PackageId>Ghbvft6.CopypasteMapper</PackageId>
   </PropertyGroup>
 
 </Project>
